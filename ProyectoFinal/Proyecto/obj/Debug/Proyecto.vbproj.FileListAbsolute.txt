@@ -1,0 +1,245 @@
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\DataBase.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\DataBase.xml
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CopyComplete
+C:\Users\rjvel\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\DataBase.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\DataBase.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.Proyecto.exe.config
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Empleado.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\DataBase.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\DataBase.xml
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Empleado.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbproj.CopyComplete
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Proveedor.resources
+C:\Users\rjvel\source\repos\ProyectoBeta\Proyecto\obj\Debug\Proyecto.entrega.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\DataBase.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\DataBase.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbproj.Proyecto.exe.config
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Empleado.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.entrega.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Proveedor.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta\Proyecto\obj\Debug\Proyecto.mas.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\DataBase.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\DataBase.xml
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Empleado.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.entrega.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.mas.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Proveedor.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbproj.CopyComplete
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\DataBase.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\DataBase.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbproj.Proyecto.exe.config
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Empleado.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.entrega.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.mas.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Proveedor.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\Rooca\Documents\Visual Studio 2015\Projects\ProyectoBeta1\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.Cache
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\DataBase.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\MySql.Data.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Zstandard.Net.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\System.Buffers.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\System.Memory.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\DataBase.pdb
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\DataBase.xml
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\bin\Debug\MySql.Data.xml
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.exe.config
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.Empleado.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.entrega.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.login.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.main.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.mas.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.Proveedor.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.Singin.resources
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.vbproj.CopyComplete
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\rjvel\source\repos\ProyectoFinal\Proyecto\obj\Debug\Proyecto.pdb
